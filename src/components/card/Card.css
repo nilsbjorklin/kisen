@@ -1,0 +1,15 @@
+[data-theme=dark] .card {
+  border-color: var(--color-dark-disabled);
+}
+
+[data-theme=light] .card {
+  border-color: var(--color-light-disabled);
+}
+
+[data-theme=dark] .card.focused {
+  border-color: var(--color-dark-secondary);
+}
+
+[data-theme=light] .card.focused {
+  border-color: var(--color-light-secondary);
+}
