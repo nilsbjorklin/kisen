@@ -1,0 +1,8 @@
+discord~=2.3.2
+discord.py~=2.5.2
+pip~=25.1
+attrs~=25.3.0
+cryptography~=44.0.1
+ollama~=0.4.8
+gunicorn~=23.0.0
+pydantic-settings==2.9.1
